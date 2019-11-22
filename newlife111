@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am newlife111 on github.
+  * I am newlife1111 (https://keybase.io/newlife1111) on keybase.
+  * I have a public key ASBp87xVxvwsIqPuJZ-ytWHAuXE3_dUAP0631c0H5MpJaAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012069f3bc55c6fc2c22a3ee259fb2b561c0b97137fdd5003f4eb7d5cd07e4ca49680a",
+      "host": "keybase.io",
+      "kid": "012069f3bc55c6fc2c22a3ee259fb2b561c0b97137fdd5003f4eb7d5cd07e4ca49680a",
+      "uid": "ba91f7809e7422a691baa06bc198ce19",
+      "username": "newlife1111"
+    },
+    "merkle_root": {
+      "ctime": 1574408135,
+      "hash": "b9b07fa5f978ce8ffe1523635233cb583e7ee8afa6b6571005af14e89e6922fd36d31a5be24ffa04983e8c7d09e526db8cd8c8b35dfd9ef1bb07687e193aacd3",
+      "hash_meta": "a0c99718fae3e63ef5fbbad990351c27cf5983eebc41dd3d290ae7b6683dcd84",
+      "seqno": 10485561
+    },
+    "service": {
+      "entropy": "b+iH/6FM+1I1uxvI8F1Z2/m1",
+      "name": "github",
+      "username": "newlife111"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574408150,
+  "expire_in": 504576000,
+  "prev": "4eab35d512ef6b1707e55abd09c1bbfb0a2c20bf885a138dd9c9fe0ce1bd86fc",
+  "seqno": 31,
+  "tag": "signature"
+}
+```
+
+with the key [ASBp87xVxvwsIqPuJZ-ytWHAuXE3_dUAP0631c0H5MpJaAo](https://keybase.io/newlife1111), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgafO8Vcb8LCKj7iWfsrVhwLlxN/3VAD9Ot9XNB+TKSWgKp3BheWxvYWTESpcCH8QgTqs11RLvaxcH5Vq9CcG7+wosIL+IWhON2cn+DOG9hvzEIJfzIhKHPA5Cvg1b9jE7BY9dpjn9l/rBcDRdRgwcw3KjAgHCo3NpZ8RArRGx9bh2hYUAd08S5yiPBHE3LRE35wrp6hKCk7xo9azk8gqOxZHYN4fju8bnrENkRnJgIr3XLezpUjX2rcT2CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGxTE+4q0sQ207xoTGXT72ycguWDpKuwAZzs5b3QIOcOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/newlife1111
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id newlife1111
+```
